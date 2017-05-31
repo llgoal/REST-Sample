@@ -1,0 +1,6 @@
+c:\users\liangw\documents\visual studio 2015\Projects\DBI REST API\DBI REST API\bin\Debug\DBI REST API.exe.config
+c:\users\liangw\documents\visual studio 2015\Projects\DBI REST API\DBI REST API\obj\Debug\DBI REST API.csprojResolveAssemblyReference.cache
+c:\users\liangw\documents\visual studio 2015\Projects\DBI REST API\DBI REST API\bin\Debug\DBI REST API.exe
+c:\users\liangw\documents\visual studio 2015\Projects\DBI REST API\DBI REST API\bin\Debug\DBI REST API.pdb
+c:\users\liangw\documents\visual studio 2015\Projects\DBI REST API\DBI REST API\obj\Debug\DBI REST API.exe
+c:\users\liangw\documents\visual studio 2015\Projects\DBI REST API\DBI REST API\obj\Debug\DBI REST API.pdb
